@@ -1,0 +1,23 @@
+body {
+  background-color: #817e7e;
+}
+
+.password {
+  border: 3px solid purple;
+}
+
+.incorrect {
+  border: 3px solid red;
+}
+
+.middle {
+  border: 3px solid yellow;
+}
+
+.correct {
+  border: 3px solid green;
+}
+
+.input-text {
+  text-transform: uppercase;
+}
